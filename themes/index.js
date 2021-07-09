@@ -174,10 +174,10 @@ const themes = {
     text_color: "99d1ce",
     bg_color: "0c1014",
   },
-  "material-palenight": {
+   "material-palenight": {
     title_color: "c792ea",
-    icon_color: "89ddff",
-    text_color: "a6accd",
+    icon_color: "0083ff",
+    text_color: "ffffff",
     bg_color: "292d3e",
   },
   graywhite: {
